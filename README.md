@@ -1,6 +1,6 @@
 # Introduction
 
-Run mlflow server in Docker container.
+Run mlflow server in Docker container, with a basic HTTP authentication for web-interface.
 
 ## Usage
 
